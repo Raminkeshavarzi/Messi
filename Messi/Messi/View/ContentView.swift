@@ -26,6 +26,8 @@ struct ContentView: View {
                 Divider()
                 
                 info(title: "Team", answer: "FC Barcelona")
+                info(title: "Age", answer: "32")
+                info(title: "Goals", answer: "630")
             }
         }
     }
